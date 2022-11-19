@@ -1,7 +1,5 @@
 # This program prints Hello, world!
 
-print('Hello, world!')
+print("Hello," "Nagamani " + "welcome to python training")
 
-print('Nagamani')
-
-print('play with python')
+print( 1 + 2 )
